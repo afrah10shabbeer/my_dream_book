@@ -1,6 +1,6 @@
 # MyDreamBook
 
-MyDreamBook is a personal travel diary web application where users can log their dream destinations, explore dream places, add new destinations, and mark their favorites. Built with Java, Spring Boot, Thymeleaf, and Bootstrap, it combines full-stack development with an easy-to-use interface.
+MyDreamBook is a personal travel diary web application where users can log their dream destinations, explore dream places, add new destinations, delete, update and mark their favorites. Built with Java, Spring Boot, Thymeleaf, and Bootstrap, it combines full-stack development with an easy-to-use interface.
 
 ---
 
