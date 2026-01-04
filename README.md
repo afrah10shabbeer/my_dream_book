@@ -26,22 +26,22 @@ MyDreamBook is a personal travel diary web application where users can log their
 ## Screenshots
 
 ### 1. Registration Page
-![Registration Page](./screenshots/registration.png)
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/7178efb3-ca1b-4a94-bcd4-d03592dd9905" />
 
 ### 2. Login Page
-![Login Page](./screenshots/login.png)
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/bae9f7cd-dd72-446a-ba01-ded9fc7f6d5b" />
 
 ### 3. Home Page
-![Home Page](./screenshots/home.png)
+<img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/3a08b953-eb4d-407e-8604-418addb22229" />
 
 ### 4. Add a Dream Place
-![Add a Dream Place](./screenshots/add_dream_place.png)
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/c0e8eb5e-35ac-491c-9979-1657fd77b3a6" />
 
 ### 5. View All Dream Places
-![All Dream Places](./screenshots/view_dream_places.png)
+<img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/b3797724-a582-466e-a646-618a7d5bde3a" />
 
 ### 6. Favorites (Marked Dream Places)
-![Favorites](./screenshots/favorites.png)
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/05b91b64-0887-4ea2-918d-269255c41de9" />
 
 
 
