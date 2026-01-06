@@ -38,10 +38,11 @@ MyDreamBook is a personal travel diary web application where users can log their
 <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/d7f511da-3402-490b-a78a-e4932f239c9c" />
 
 ### 5. View All Dream Places
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/853b1367-7bbb-4895-a071-af58902c1469" />
+<img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/0ee097c3-e190-49e7-ba42-43453f5c451e" />
 
 ### 6. Favorites (Marked Dream Places)
-<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/c225f7a5-8f61-4771-a217-ed04051f569b" />
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/094dc29d-8d6d-4aac-8771-694552c41fb6" />
+
 
 
 
